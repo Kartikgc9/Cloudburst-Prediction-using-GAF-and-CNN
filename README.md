@@ -1,6 +1,5 @@
 # Paper-Title: Integration of CNN and GAF for Monitoring/Predicting Cloudburst Events in Uttarakhand, India
 
-**Description**:
 This repository contains data and code for the research paper **"Integration of CNN and GAF for Monitoring/Predicting Cloudburst Events in Uttarakhand, India"**. The aim of this research is to develop an accurate and efficient method for monitoring and predicting cloudburst events in Uttarakhand, India using a combination of Convolutional Neural Network (CNN) and Gramian Angular Field (GAF).
 
 The uploaded data includes several files that are used for model training, testing, and validation. The files and their descriptions are as follows:
@@ -37,4 +36,4 @@ These files can be used to reproduce the results reported in the research paper.
 
 We hope that this research will contribute to the development of more accurate and efficient methods for monitoring and predicting cloudburst events, which can help to mitigate the impact of these natural disasters on the communities in Uttarakhand, India.
 
-Note:- Since, The Training code shuffles the data and then splits it. the result for newly trained model could vary
+Note:- Since, The Training code shuffles the data. The result may vary for the newly trained model.
