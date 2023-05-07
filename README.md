@@ -38,4 +38,7 @@ These files can be used to reproduce the results reported in the research paper.
 
 We hope that this research will contribute to the development of more accurate and efficient methods for monitoring and predicting cloudburst events, which can help to mitigate the impact of these natural disasters on the communities in Uttarakhand, India.
 
-Note:- Since, The Training code shuffles the data. The result may vary for newly trained models.
+Note:- 
+Since, The Training code shuffles the data. The result may vary for newly trained models.
+The 3rd event in the testing dataset i.e TEST6 and TEST12 is a repeated event from the training-testing dataset. so, please ignore it.
+
